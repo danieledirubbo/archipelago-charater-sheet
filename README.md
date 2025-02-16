@@ -4,6 +4,8 @@ A fan-made character sheet for the role-playing game *Archipelago* (Matthijs Hol
 
 ## Licence
 
+This character sheet is copyleft (ↄ) 2025 Daniele Di Rubbo. Some rights reserved.
+
 This charater sheet is published under a Creative Commons Attribution 4.0 International License. To view a copy of this license, visit <https://creativecommons.org/licenses/by/4.0/> or send a letter by owl to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 ## Fonts
@@ -15,8 +17,6 @@ This charater sheet is published under a Creative Commons Attribution 4.0 Intern
 # Scheda del personaggio per *Archipelago*
 
 Una scheda del personaggio fan-made per il gioco di ruolo *Archipelago* (Matthijs Holter, 2007¹, 2009², 2012³).
-
-## Licenza
 
 ## Licenza
 
